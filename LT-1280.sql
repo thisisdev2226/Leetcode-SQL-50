@@ -17,8 +17,6 @@ Time Complexity: O(S × Sub + E)
 Space Complexity: O(1) (excluding output)
 */
 
-# Write your MySQL query statement below
-
 SELECT
     st.student_id,
     st.student_name,
