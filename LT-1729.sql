@@ -1,6 +1,7 @@
 /*
 Problem: 1729. Find Followers Count
 Link: https://leetcode.com/problems/find-followers-count/
+
 Approach:
 - Group the records by user_id.
 - Count the number of follower_id values for each user using COUNT(follower_id).
